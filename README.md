@@ -1,4 +1,4 @@
-# ** Pas op, deze repository is publiekelijk ingesteld, evenals het achterhangende project. **
+# **Pas op, deze repository is publiekelijk ingesteld, evenals het achterhangende project.**
 
 # Schaopkes Filemanagement
 
