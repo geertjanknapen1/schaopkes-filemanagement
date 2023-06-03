@@ -92,7 +92,7 @@
                 </tr>
             </thead>
             <tbody>
-                <?php if (isset($_GET['file']) && realpath($currDir) !== realpath($initDir)): ?>
+                <?php if (count($files) === 0): ?>
                 <tr>
                     <td colspan="10" class="name"><i class="fa-regular fa-folder-open"></i><a href="javascript:history.go(-1)">Leeg, klik om terug te gaan..</a></td> 
                 </tr>
