@@ -1,5 +1,3 @@
-# **Pas op, deze repository is publiekelijk ingesteld, evenals het achterhangende project.**
-
 # Schaopkes Filemanagement
 
 Deze repository bevat de source-code voor het bestanden platform van VV De Schaopkes.
